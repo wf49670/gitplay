@@ -16,6 +16,7 @@ second change
 .ce 
 FIG. 11--A SINGLE-TREE HUT 
 .rj
+3rd change
 See p. 359]
 .if-
 .dv-
