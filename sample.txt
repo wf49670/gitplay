@@ -1,0 +1,21 @@
+﻿.dt illustration caption experiment
+
+.h1
+illustration caption experiment
+
+
+.dv il
+.if h
+.il fn=1.jpg w=51px
+.if-
+.if t
+[Illustration: 
+.ce 
+FIG. 11--A SINGLE-TREE HUT 
+.rj
+See p. 359]
+.if-
+.dv-
+
+.il fn=abc.jpg w=55px
+.ca here is my caption
