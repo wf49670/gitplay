@@ -1,11 +1,14 @@
-﻿.dt illustration caption experiment
+.dt illustration caption experiment
 
 .h1
 illustration caption experiment
 
+first change
+
 
 .dv il
 .if h
+second change
 .il fn=1.jpg w=51px
 .if-
 .if t
